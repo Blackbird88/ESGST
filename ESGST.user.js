@@ -5,8 +5,8 @@
 // @icon https://dl.dropboxusercontent.com/s/lr3t3bxrxfxylqe/esgstIcon.ico?raw=1
 // @version 6.Beta.37.3
 // @author revilheart
-// @downloadURL https://github.com/revilheart/ESGST/raw/master/ESGST.user.js
-// @updateURL https://github.com/revilheart/ESGST/raw/master/ESGST.meta.js
+// @downloadURL https://github.com/Blackbird88/ESGST/raw/master/ESGST.user.js
+// @updateURL https://github.com/Blackbird88/ESGST/raw/master/ESGST.meta.js
 // @match https://www.steamgifts.com/*
 // @match https://www.steamtrades.com/*
 // @connect raw.githubusercontent.com
