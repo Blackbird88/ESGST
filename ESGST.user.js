@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name ESGST
+// @name ESGST-fork
 // @namespace ESGST
 // @description Enhances SteamGifts and SteamTrades by adding some cool features to them.
 // @icon https://dl.dropboxusercontent.com/s/lr3t3bxrxfxylqe/esgstIcon.ico?raw=1
